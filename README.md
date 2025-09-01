@@ -11,6 +11,8 @@
 
 ## 联系方式
 QQ讨论群：1054853357  
+<img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/1ec6fd8b-492e-4612-87d3-9a6cf8cda2a2" />
+
 
 ---
 
