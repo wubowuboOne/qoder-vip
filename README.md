@@ -11,7 +11,11 @@
 
 ## 联系方式
 QQ讨论群：1054853357  
-<img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/1ec6fd8b-492e-4612-87d3-9a6cf8cda2a2" />
+
+## 程序界面
+
+<img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/75712fb3-7b0a-433c-81e2-66399a967a0a" />
+
 
 
 ---
