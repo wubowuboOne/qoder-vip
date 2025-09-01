@@ -25,7 +25,8 @@ QQ讨论群：1054853357
 <img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/75712fb3-7b0a-433c-81e2-66399a967a0a" />
 
 ## 授权码获取方式
-【闲鱼】https://m.tb.cn/h.hyVUNil?tk=X7TI4oJicGj
+ 免费授权码：QODER-VIP-MF0RC086-33F826A93237B6FB
+ 付费授权码：【闲鱼】https://m.tb.cn/h.hyVUNil?tk=X7TI4oJicGj
 
 
 ---
