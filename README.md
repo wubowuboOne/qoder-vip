@@ -2,15 +2,8 @@
  A tool that enables infinite account resets, spoofing of machine codes and device fingerprints, and clearing of login states to bypass platform account limits.
  
 一款能够实现无限次账户重置、伪造机器码与设备指纹、清除登录状态以绕过平台账户限制的工具。
-## 使用注意事项
-- 1,登录Qoder之前，打开qoder-vip
-
-- 2,填写授权码, 验证授权
-
-- 3, 如果是更换新账号，点击"生成新ID";
-
-- 4, 登录Qoder之前需要打开脚本点击“启动服务” 
-
+## 软件使用教程
+https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c?from=from_copylink
 ## 核心功能
 - 🔄 **无限账户重置**：突破平台账户使用次数限制  
 - 🛠️ **硬件信息伪造**：动态生成机器码与设备指纹  
