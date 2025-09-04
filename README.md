@@ -19,7 +19,11 @@ QQ讨论群：1054853357
 
 ## 授权码获取方式
  为打击盗版，打击二道贩子，无限用，无限免费授权码在使用教程：https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
- 
+
+## 打赏
+![fe06137adbba597a0b9d161257ee42e](https://github.com/user-attachments/assets/13c1378b-eaed-4297-af1e-602329f9d928)
+![ad4b6c593c77f0a2aa61d3874221f67](https://github.com/user-attachments/assets/4b3716b7-13d6-4ac0-93c4-a54cc610940c)
+
 ---
 
 *注：本工具仅限技术研究使用，请遵守相关平台用户协议与法律法规。*
