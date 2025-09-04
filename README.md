@@ -13,13 +13,12 @@ https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
 ## 联系方式
 QQ讨论群：1054853357  
 
-## 程序界面
-
-<img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/75712fb3-7b0a-433c-81e2-66399a967a0a" />
-
 ## 授权码获取方式
  为打击盗版，打击二道贩子，无限用，无限免费授权码在使用教程：
  https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
+## 程序界面
+
+<img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/75712fb3-7b0a-433c-81e2-66399a967a0a" />
 
 ## 打赏
 <img width="374" height="440" alt="1ef84bd22f4f75ff87a7c6734e60dd5" src="https://github.com/user-attachments/assets/614fd621-3221-4d83-97f1-ffe3b71926c1" />
