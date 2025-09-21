@@ -1,6 +1,5 @@
 # Qoder-VIP
- A tool that enables infinite account resets, spoofing of machine codes and device fingerprints, and clearing of login states to bypass platform account limits.
- Qoder最新版可用
+Qoder支持最新版可用
 一款能够实现无限次账户重置、伪造机器码与设备指纹、清除登录状态以绕过平台账户限制的工具。
 ## 软件使用教程
 https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
