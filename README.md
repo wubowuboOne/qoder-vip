@@ -10,7 +10,7 @@ https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
 - 🚀 **限制绕过**：有效规避平台风控检测机制  
 
 ## 联系方式
-QQ讨论群：1054853357  
+QQ：2285987529
 
 ## 授权码获取方式
  https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
