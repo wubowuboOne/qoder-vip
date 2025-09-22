@@ -11,6 +11,8 @@ https://nd52ezged0.feishu.cn/wiki/S2fAw7aCfiP7gmkN7GUcPAlTn2c
 
 ## 联系方式
 QQ：2285987529
+【闲鱼】https://m.tb.cn/h.SWe9XIJ?tk=d43O4vMSnbO CZ225 「我在闲鱼发布了【qoder无限续杯 无限重置 支持最新版】」
+点击链接直接打开
 ## 程序界面
 
 <img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/75712fb3-7b0a-433c-81e2-66399a967a0a" />
