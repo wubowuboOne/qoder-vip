@@ -17,10 +17,6 @@ QQ：2285987529
 
 <img width="416" height="639" alt="image" src="https://github.com/user-attachments/assets/75712fb3-7b0a-433c-81e2-66399a967a0a" />
 
-## 打赏
-<img width="374" height="440" alt="1ef84bd22f4f75ff87a7c6734e60dd5" src="https://github.com/user-attachments/assets/614fd621-3221-4d83-97f1-ffe3b71926c1" />
-<img width="378" height="471" alt="943e8d26c6ef87e76711abc69e572f8" src="https://github.com/user-attachments/assets/95ea01fe-c89e-48e3-bcdb-7c48321e4803" />
-
 
 ---
 
